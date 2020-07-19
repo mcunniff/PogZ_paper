@@ -8,6 +8,9 @@
 
 - annotationFunctions.py takes position data from anymaze output and converts it into annotation files for the LFP analysis. Block analysis requires 3 columns - start time, end time, and run type. Transition analysis is two columns  - timepoint of interest and run type.
 
+- lfpstate was used for ICA analysis
+
 ## Analysis of patch clamp experiments
 - allCellProperties is a master funciton for calculating intrinsic cell properties from CCIV recordings
 - optoESPC, optoIPSC, and optoSpikes are functions for calculating the response to light flashes in optogenetic experiments.
+- hpc_noise_model was used for modeling of impact of patch clamp results
