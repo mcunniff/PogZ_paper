@@ -1,4 +1,6 @@
 # PogZ_paper
+
+Analysis code associated with ["Altered hippocampal-prefrontal communication during anxiety-related avoidance in mice deficient for the autism-associated gene Pogz"](https://elifesciences.org/articles/54835) by Margaret M Cunniff et al 2020. 
  
 ## Analysis of LFP experiments, including LFP data, annotating relevant behavior data, visualization
 
